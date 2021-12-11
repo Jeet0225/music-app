@@ -9,13 +9,13 @@ import android.view.View;
 public class MainActivity2 extends AppCompatActivity {
     MediaPlayer player;
     public void play(View view){
-        player.start();
+//        player.start();
     }
-    public void pause(View view){
-        player.pause();
-    }
+//    public void pause(View view){
+////        player.pause();
+//    }
     public void stop(View view){
-        player.stop();
+//        player.stop();
     }
 
     @Override
